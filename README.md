@@ -17,3 +17,6 @@ This repository contains the official implementation of the paper titled "Rotati
 - train.py: Script to train the RRN model.
 - evaluate.py: Script to evaluate the trained model on test data.
 - demo.py: Script to perform pedestrian detection on custom images using the trained model.
+
+## Contact
+For any questions or inquiries, please contact cvgroup1@skiff.com.
