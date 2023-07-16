@@ -18,5 +18,8 @@ This repository contains the official implementation of the paper titled "Rotati
 - evaluate.py: Script to evaluate the trained model on test data.
 - demo.py: Script to perform pedestrian detection on custom images using the trained model.
 
+## Link to the pedestrian dataset
+[https://www.kaggle.com/datasets/kalvinquackenbush/caltechpedestriandataset](https://www.kaggle.com/datasets/kalvinquackenbush/caltechpedestriandataset)
+
 ## Contact
 For any questions or inquiries, please contact cvgroup1@skiff.com.
